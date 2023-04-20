@@ -1,0 +1,12 @@
+.header {
+  background-color: #6278f7;
+  text-align: center;
+}
+.header img {
+  max-width: 100%;
+}
+.header h2 {
+  font-size: 32px;
+  font-weight: 400;
+  color: #212121;
+}
